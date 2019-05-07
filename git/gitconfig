@@ -1,0 +1,6 @@
+[user]
+	name = Renato Granzoto
+	email = rgranzot@redhat.com
+
+[alias]
+	logall = log --all --decorate --oneline --graph
